@@ -1,0 +1,19 @@
+h1{
+    color:rgb(255,170,131,255);
+    text-align: center;
+}
+img{
+    width: 30%;
+    display:block;
+    margin: 0 auto;
+}
+body{
+    background-color: cadetblue;
+    border: 3px solid rgb(66, 108, 110);
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size: larger;
+}
